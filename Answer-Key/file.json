@@ -1,0 +1,5 @@
+{
+    "Test" : "Hello",
+    "Create a python program " : "import re #Import this package\n    def match(str1,str2):\n",
+    "find the maximum value in linear search." : "find_maximum(test_scores))"
+}
